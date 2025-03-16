@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 🌟 **Welcome to my GitHub Profile!** 🌟
 
-## 👋 **Hi, I'm [Shamil Bin Hossain][(https://github.com/shamilhossain)]**! 
+## 👋 **Hi, I'm [Shamil Bin Hossain]**! 
 
 I'm a **Computer Science & Engineering student** 📚 with a specialization in **Data Science** 🔍, passionate about **Machine Learning** 🤖, **Artificial Intelligence** 🤖, and **Data Analytics** 📊. I love solving problems with data and building innovative solutions. 🚀
 
